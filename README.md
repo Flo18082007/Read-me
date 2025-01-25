@@ -1,14 +1,40 @@
-<h1 align="center">Hi 👋, I'm Unknow@Flo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flo18082007&label=Profile%20views&color=0e75b6&style=flat" alt="flo18082007" /> </p>
+<h1 align="center">👨‍💻 Bienvenue sur mon profil GitHub! Je suis Unknow@Flo</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flo18082007" alt="flo18082007" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<!-- Bannière de vues du profil avec thème sombre -->
 <p align="left">
-<a href="https://dev.to/dev.flo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.flo" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=flo18082007&label=Vues%20du%20profil&color=000000&style=for-the-badge" alt="flo18082007" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Trophées GitHub avec thème sombre -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=flo18082007&theme=darkhub&no-frame=true&row=1&column=6" alt="trophées" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flo18082007&show_icons=true&locale=en" alt="flo18082007" /></p>
+<!-- Section des compétences avec badges stylisés -->
+<h3 align="left">🚀 Langages et Outils:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,mysql,nodejs,python,react&theme=dark" />
+  </a>
+</p>
+
+<!-- Statistiques GitHub avec thème sombre -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flo18082007&show_icons=true&theme=dark&hide_border=true&locale=fr" alt="statistiques" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flo18082007&theme=dark&hide_border=true&locale=fr" alt="séquence" width="49%" />
+</p>
+
+<!-- Graphique d'activité -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flo18082007&theme=react-dark&hide_border=true" alt="graphique d'activité" />
+</p>
+
+<!-- Section Contact -->
+<h3 align="left">📫 Me contacter:</h3>
+<p align="left">
+  <a href="https://dev.to/dev.flo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.flo" height="30" width="40" />
+  </a>
+</p>
