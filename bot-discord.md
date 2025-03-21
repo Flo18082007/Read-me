@@ -35,19 +35,19 @@ bun install
 ### 🖥️ Configurer les variables d’environnement
 
 #### Créer un fichier .env :
-
+```sh
 DISCORD_TOKEN=VOTRE_TOKEN_BOT
 CLIENT_ID=VOTRE_CLIENT_ID
 GUILD_ID=VOTRE_GUILD_ID
 SECRET_KEY=une_clé_secrète_random
-
+```
 ## 🚀 Démarrer le bot et le serveur
 
-Lancer le bot Discord et le serveur Web :
-
+### Lancer le bot Discord et le serveur Web :
+```sh
 bun run start
 bun run dev:web 
-
+```
 ## 🏗️ Structure du projet
 ```sh
 mfa-discord-bot/
